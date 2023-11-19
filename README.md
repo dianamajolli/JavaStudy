@@ -1,2 +1,2 @@
 # JavaStudy
-Some exercices using Java/React
+Some exercices using Java
