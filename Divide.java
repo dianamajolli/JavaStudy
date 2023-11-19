@@ -1,10 +1,9 @@
-package arrayListProcess;
+package fileProcess;
 
 public class Divide {
 	private double x;
 	private double y;
 
-	
 
 	public Divide(double x, double y) {
 		
